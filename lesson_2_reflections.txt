@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository you set up a space for all your files in a given directory to be commited. You need to give you commits a place to go.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is different than the working directory and the repository because it allows files to be in a neither of those two places. The file hasn't yet been committed, but is also being prepared to be committed so it isn't just sitting around unchecked in the repository.
